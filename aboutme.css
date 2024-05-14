@@ -1,0 +1,16 @@
+nav ul > li {
+    display: inline-block;
+  }
+
+/* border help: https://www.w3schools.com/html/html_table_borders.asp */
+table, th, td {
+  border: 1px outset rgb(12, 54, 12);
+
+}
+td {
+color: rgb(166, 3, 147)
+}
+
+span {
+    font-family: sans-serif;
+  }
